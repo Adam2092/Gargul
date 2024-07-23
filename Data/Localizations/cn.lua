@@ -7,7 +7,7 @@ local L = Gargul_L or {};
 
 L.ABOUT = "关于";
 L.ALL_SETTINGS = "所有设置";
-L.ANNOUNCE = "公示";
+L.ANNOUNCE = "公告";
 L.ANTISNIPE = "防偷鸡倒数";
 L.ANTISNIPE_EXPLANATION = [[
 
